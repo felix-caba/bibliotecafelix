@@ -4,7 +4,7 @@ import java.util.HashMap;
 public class Biblioteca {
 // SOLUCION USAR HASHMAPS 
     private HashMap<Libro, StockInfo> stockLibro = new HashMap<>();
-
+// clase ejemplares to make
 
 
 
